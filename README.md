@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!%20&fontSize=90)
 
-</div>
 
 ![well0924's github stats](https://github-readme-stats.vercel.app/api?username=well0924&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=well0924&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center> 
 #
 ✉ Emali ✉ 
 
